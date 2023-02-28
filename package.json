@@ -1,0 +1,11 @@
+{
+  "name": "xely",
+  "version": "1.0.0",
+  "description": "To determine if series of numbers can produce the wanted number using basic operations.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SayYoungMan",
+  "license": "ISC"
+}
